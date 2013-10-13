@@ -1,0 +1,7 @@
+large singular value computations
+software library for the space singular value decomposition
+introduction to modern information retrieval
+using linear algebra for intelligent information retrieval
+matrix computations
+Singular value analysis of cryptograms
+automatic information organization

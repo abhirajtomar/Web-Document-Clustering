@@ -1,0 +1,10 @@
+A dedicated site or other application that enables people to communicate with each other by posting information
+Uses special sites to allow people to create a profile and form communities based on common interests
+A social network service is an online service, platform, or a site which focuses on building and reflecting of social networks or social relations among people
+Social networks can be thought of as communities based upon interest or commonality that use the internet to connect the people of the network
+A group of people who exchange information and experience for social or professional purposes
+Networking is establishing an informal communities of contacts among people with common social and business interests as a source of prospects, for the exchange of information, and for support
+A computer network is a group of computers and devices interconnected by communications channels that facilitate communications among users and allows users to share data
+Computer Networking is the joining of two or more computers in order for them to communicate or jointly access a server
+A group of two or more computer linked by cables or wireless signals or both, which can communicate with one another using network protocol
+A group of computers together with the sub-netowrk or inter-network through which they can exchange data is called a computer network
